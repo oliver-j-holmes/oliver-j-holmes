@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @oliver-j-holmes
 - 👀 I’m interested in Chemistry, Physics, Microcontrollers, and Gardening.
-- 🌱 I’m currently learning how to use ESP32 microcontrollers to setup a home sensor network.
+- 🌱 I’m developing a dashboard for academic journals.
 - 🧪 I’m looking to collaborate on any projects related to my interests.
-- ⌨ My primary programming language is Python however I also have some experience in C++/C, and have basic knowledge of current web technologies including Flutter.
+- ⌨ I love developing lean web interfaces for joyful user experiences.
 - 📫 You can reach me here on GitHub or on Twitter @oliver_j_holmes.
+- 💻 I am looking for opportunities to gain experience in a data science or web development role, please drop me a message if you have an opportunity for me.
